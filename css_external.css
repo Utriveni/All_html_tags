@@ -1,0 +1,55 @@
+#heading
+{
+    color: violet;
+    text-align: center;
+    background-color: royalblue;
+    border: 0ch;
+}
+#head
+{
+    color: blueviolet;
+    text-align: center;
+    background-color: aquamarine;
+    border: 0cm;
+}
+#decorate
+{
+    color: green;
+    text-align: center;
+    background-color: blueviolet;
+    border: 0cqb;
+}
+#paragraph
+{
+    color: red;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.textColor
+{
+    color: red;
+    background-color: rosybrown;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2,h3,p
+{color: red;
+    background-color: aqua;
+    text-align: center;
+    font-family: cursive;
+
+}
+
+h4.demo
+{
+    color: blue;
+    background-color: blueviolet;
+}
+
+h5.cred
+{
+    color: green;
+    background-color: grey;
+    font-family: cursive;
+}
